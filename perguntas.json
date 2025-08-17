@@ -1,0 +1,62 @@
+[
+  {
+    "texto": "Você está no início da carreira (0–2 anos de experiência)?",
+    "impactos_sim": {"inicio_carreira": 3, "requalificacao": 1},
+    "impactos_nao": {"promocao_interna": 1},
+    "motivo": "momento inicial de carreira"
+  },
+  {
+    "texto": "Você tem interesse em continuar na empresa atual?",
+    "impactos_sim": {"promocao_interna": 2},
+    "impactos_nao": {"mudanca_area": 2, "consultoria": 1},
+    "motivo": "definição do vínculo com a empresa atual"
+  },
+  {
+    "texto": "Você tem interesse em liderar pessoas?",
+    "impactos_sim": {"gestao": 3, "promocao_interna": 1},
+    "impactos_nao": {"especialista": 1},
+    "motivo": "preferência por liderança"
+  },
+  {
+    "texto": "Você tem interesse em atuar de forma independente (freelancer/consultor)?",
+    "impactos_sim": {"consultoria": 3, "empreendedorismo": 1},
+    "impactos_nao": {"promocao_interna": 1},
+    "motivo": "preferência por autonomia"
+  },
+  {
+    "texto": "Você valoriza muito estabilidade financeira?",
+    "impactos_sim": {"promocao_interna": 2, "gestao": 1},
+    "impactos_nao": {"empreendedorismo": 2},
+    "motivo": "necessidade de estabilidade"
+  },
+  {
+    "texto": "Você gosta de resolver problemas técnicos complexos?",
+    "impactos_sim": {"especialista": 3, "consultoria": 1},
+    "impactos_nao": {"gestao": 1, "mudanca_area": 1},
+    "motivo": "afinidade com desafios técnicos"
+  },
+  {
+    "texto": "Você gostaria de seguir carreira acadêmica (pesquisa, docência)?",
+    "impactos_sim": {"academia": 3, "especialista": 1},
+    "impactos_nao": {},
+    "motivo": "interesse em pesquisa"
+  },
+  {
+    "texto": "Você gostaria de empreender (startup ou negócio próprio)?",
+    "impactos_sim": {"empreendedorismo": 3, "consultoria": 2},
+    "impactos_nao": {"promocao_interna": 1},
+    "motivo": "perfil empreendedor"
+  },
+  {
+    "texto": "Você estaria disposto a investir tempo em cursos/certificações?",
+    "impactos_sim": {"requalificacao": 3, "especialista": 1},
+    "impactos_nao": {},
+    "motivo": "abertura para aprendizado"
+  },
+  {
+    "texto": "Você sente necessidade de reduzir o ritmo ou pausar temporariamente?",
+    "impactos_sim": {"pausa": 3},
+    "impactos_nao": {},
+    "motivo": "necessidade de pausa estratégica"
+  }
+]
