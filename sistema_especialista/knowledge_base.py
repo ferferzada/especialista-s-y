@@ -1,8 +1,7 @@
-# knowledge_base.py
 from typing import Dict, List, Any
 from .models import Career, Rule, WorkingMemory
 
-# --- Base de Conhecimento (Dados) ---
+
 CAREERS: Dict[str, Career] = {
     "Desenvolvedor de Software": Career(
         nome="Desenvolvedor de Software",

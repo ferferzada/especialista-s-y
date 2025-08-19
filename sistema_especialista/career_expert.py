@@ -1,4 +1,3 @@
-
 import math
 from typing import Dict, Any, List
 from .knowledge_base import RULES, CAREERS
