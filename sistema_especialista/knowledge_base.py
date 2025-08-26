@@ -63,16 +63,6 @@ CAREERS: Dict[str, Career] = {
         salario="alto",
         demanda="estavel",
     ),
-    "Enfermeiro": Career(
-        nome="Enfermeiro",
-        dominios=["saude"],
-        educacao_min="graduacao",
-        ambiente=["presencial"],
-        core_skills=["assistencia", "protocolos", "urgencia"],
-        soft_skills=["empatia", "comunicacao"],
-        salario="medio",
-        demanda="em_alta",
-    ),
     "Vendedor Técnico (B2B)": Career(
         nome="Vendedor Técnico (B2B)",
         dominios=["negocios", "vendas"],
